@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="cypjk:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="cypjk.war">
+      <element id="artifact" artifact-name="cypjk:war exploded" />
+    </root>
+  </artifact>
+</component>
